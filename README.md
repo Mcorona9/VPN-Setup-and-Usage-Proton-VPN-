@@ -58,7 +58,7 @@ To verify the location in which I created a virtual machine, we went through the
 <img src="https://i.imgur.com/FccQP2b.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that we have successfully downloaded ProtonVPN onto our virtual machine, we will proceed to connect to a server located in Japan, using the software. </p>
+"Now that we have successfully downloaded ProtonVPN onto our virtual machine, we will proceed to connect to a server located in Japan, using the software. This will allow us to make several observations related to the network connectivity and performance of the VPN service. By establishing a secure and private connection to a server in Japan, we will gain access to region-specific content and resources, while also evaluating the speed and reliability of the VPN service </p>
 <br />
 
 <p>
