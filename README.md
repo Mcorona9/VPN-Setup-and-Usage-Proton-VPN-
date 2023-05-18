@@ -5,7 +5,7 @@
 </p>
 
 <h1> </h1>
-In this lab, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<br />
 
 
 
