@@ -43,7 +43,7 @@ To verify the location in which I created a virtual machine, we went through the
 <p>
 <img src="https://i.imgur.com/3cgUw7b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>The image depicted above provides visual confirmation of the successful creation of a virtual machine in the region of South Africa.
+<p>The image depicted above provides visual confirmation of the successful creation of a virtual machine in the region of Gauteng.
 </p>
 <br />
 
